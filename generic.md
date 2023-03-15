@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Generic
+title: Fukt og muggsopp
 description: Lorem ipsum dolor est
-image: assets/images/pic11.jpg
+image: assets/images/pink_background.jpg
 nav-menu: true
 ---
 
