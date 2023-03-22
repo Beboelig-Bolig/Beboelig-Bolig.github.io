@@ -1,9 +1,10 @@
 ---
 layout: landing
-title: På visning
+title: test
 description: 'OG HVA DU SKAL SE ETTER'
 image: assets/images/pink_background.jpg
 nav-menu: true
+show-tile: true
 ---
 
 <!-- Main -->

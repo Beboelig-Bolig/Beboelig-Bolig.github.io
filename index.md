@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Heim
+title: Hjem
 landing-title: 'Luke, eg er far din'
 description: null
 image: null
