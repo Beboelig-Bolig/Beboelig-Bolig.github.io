@@ -2,7 +2,7 @@
 layout: page
 title: Skadedyr
 description: Og hvordan bli kvitt dem
-image: assets/images/pink_background.jpg
+image:
 nav-menu: true
 ---
 

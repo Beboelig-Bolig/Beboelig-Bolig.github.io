@@ -2,7 +2,7 @@
 layout: page
 title: Fukt og muggsopp
 description: Og hvordan oppdage det
-image: assets/images/pink_background.jpg
+image:
 nav-menu: true
 ---
 
