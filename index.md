@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Hjem
-landing-title: 'Luke, eg er far din'
+landing-title: 'HJELP, JEG SKAL LEIE BOLIG!'
 description: null
 image: null
 author: null

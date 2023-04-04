@@ -2,16 +2,16 @@
 title: Beboelig Bolig
 subtitle:
 email: beboeligbolig@gmail.com
-description: Et sted for boliginformasjon i forbindelse med EiT-prosjektet<br> vårt i KJ2095 Miljøpåvirkning og helse
+description: Et samlested med boliginformasjon for deg som skal leie bolig
 baseurl: # the subpath of your site, e.g. /blog
 url: https://beboelig-bolig.github.io # the base hostname & protocol for your site
 author:
-street_address: 
+street_address:
 city: 
 state: 
 zip_code: 
 country: 
-phone: 
+phone:
 
 # homepage tiles
 tiles-source: pages # accepts "posts" or "pages"
