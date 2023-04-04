@@ -15,9 +15,10 @@
 			display: none;
 		}
 
+		//- Icon parameters
 		&.alt {
 			&:before {
-				background-color: _palette(fg-bold);
+				background-color: _palette(spring_bud);
 				border-radius: 100%;
 				color: _palette(bg);
 				display: inline-block;

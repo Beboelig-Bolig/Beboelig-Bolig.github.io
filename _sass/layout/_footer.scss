@@ -12,9 +12,10 @@
 			list-style: none;
 			padding-left: 0;
 
+			//- Copyright text parameters
 			li {
-				border-left: solid 1px _palette(border);
-				color: _palette(fg);
+				border-left: solid 1px _palette(tekstfarge);
+				color: _palette(tekstfarge);
 				display: inline-block;
 				line-height: 1;
 				margin-left: 1em;

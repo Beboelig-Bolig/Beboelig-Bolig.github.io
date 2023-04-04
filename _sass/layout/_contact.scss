@@ -6,8 +6,9 @@
 
 /* Contact */
 
+	//- Contact information text parameters
 	#contact {
-		border-bottom: solid 1px _palette(border);
+		border-bottom: solid 1px _palette(spring_bud);
 		overflow-x: hidden;
 
 		> .inner {
@@ -16,8 +17,8 @@
 
 			> :nth-child(2n - 1) {
 				@include padding(4em, 0, (0, 3em, 0, 0));
-				border-right: solid 1px _palette(border);
-				width: 60%;
+				border-right: solid 1px _palette(spring_bud);
+				width: 50%;
 				z-index: 1;
 			}
 
@@ -29,12 +30,13 @@
 			> .split {
 				padding: 0;
 
+				//- Contact information text parameters
 				> * {
-					@include padding(3em, 0, (0, 0, 0, 3em));
+					@include padding(3em, 0, (0, 0, 0, 0em));
 					position: relative;
 
 					&:before {
-						border-top: solid 1px _palette(border);
+						border-top: solid 1px _palette(spring_bud);
 						content: '';
 						display: block;
 						margin-left: -3em;
