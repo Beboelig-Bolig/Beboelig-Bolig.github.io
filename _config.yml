@@ -1,6 +1,6 @@
 # site settings
 title: Beboelig Bolig
-subtitle:
+subtitle: ET EiT-prosjekt
 email: beboeligbolig@gmail.com
 description: Et samlested med boliginformasjon for deg som skal leie bolig
 baseurl: # the subpath of your site, e.g. /blog
