@@ -34,7 +34,7 @@
 			display: block;
 			height: 100%;
 			left: 0;
-			opacity: 1.0; //- 0.85
+			opacity: 0.85; //- 0.85
 			position: absolute;
 			top: 0;
 			width: 100%;
@@ -100,8 +100,8 @@
 		//- Size of top tile
 		&.major {
 			height: 75vh;
-			min-height: 10em;
-			max-height: 20em;
+			min-height: 30em; // 10em
+			max-height: 50em; // 20em
 
 			&.alt {
 				  opacity: 0.75;
@@ -109,7 +109,7 @@
 		}
 
 		&.style1 { &:after { background-color: _palette(accent1); } }
-		&.style2 { &:after { background-color: _palette(accent2); } }
+		&.style2 { &:after { background-color: _palette(eton_blue); } }
 		&.style3 { &:after { background-color: _palette(accent3); } }
 		&.style4 { &:after { background-color: _palette(accent4); } }
 		&.style5 { &:after { background-color: _palette(accent5); } }

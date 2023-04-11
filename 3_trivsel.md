@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: landing
 title: Hvordan trives i kollektivet
 description: 
 image:
