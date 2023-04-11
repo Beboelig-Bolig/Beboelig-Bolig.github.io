@@ -1,10 +1,10 @@
 # site settings
 title: Beboelig Bolig
-subtitle: ET EiT-prosjekt
+subtitle:
 email: beboeligbolig@gmail.com
 description: Et samlested med boliginformasjon for deg som skal leie bolig
 baseurl: # the subpath of your site, e.g. /blog
-url: https://beboeligbolig.no # the base hostname & protocol for your site
+url: https://beboelig-bolig.github.io # the base hostname & protocol for your site
 author:
 street_address:
 city: 
