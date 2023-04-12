@@ -1,7 +1,7 @@
 ---
 layout: landing
 title: På visning
-description: 'OG HVA DU SKAL SE ETTER'
+description: Og hva du skal se etter
 image:
 nav-menu: true
 ---

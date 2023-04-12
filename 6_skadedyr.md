@@ -12,9 +12,9 @@ nav-menu: true
 <!-- One -->
 <section id="one">
 	<div class="inner">
-		<header class="major">
+		<!-- <header class="major">
 			<h1>Skadedyr</h1>
-		</header>
+		</header> -->
 
 <!-- Content -->
 <p>Skadedyr kan være skadelig for både mennesker og bolig, og i flere tilfeller føre til store

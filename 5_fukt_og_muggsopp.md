@@ -12,9 +12,9 @@ nav-menu: true
 <!-- One -->
 <section id="one">
 	<div class="inner">
-		<header class="major">
+		<!-- <header class="major">
 			<h1>Fukt og muggsopp</h1>
-		</header>
+		</header> -->
 
 <!-- Content -->
 <p>Muggsoppen finnes overalt, både innen- og utendørs. Det finnes mer enn 100 000 arter av muggsopp og mer enn 1000 av disse er vanlige typer som man finner i Norge. De fleste muggsoppartene finnes i den mengde som ikke er farlige for friske personer. Om man blir utsatt for unormalt høye mengder med muggsopp derimot, kan dette påvirke helsen din.

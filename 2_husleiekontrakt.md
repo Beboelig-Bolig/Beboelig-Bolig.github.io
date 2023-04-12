@@ -1,9 +1,119 @@
 ---
 layout: landing
 title: Husleiekontrakten
-description: 
+description: Og hva du må huske på
 image:
 nav-menu: true
 ---
 
-<p>Her kommer info om husleiekontrakten</p>
+<!-- Main -->
+<div id="main" class="alt">
+
+<!-- One -->
+<section id="one">
+	<div class="inner">
+		<!-- <header class="major">
+			<h1>Fukt og muggsopp</h1>
+		</header> -->
+
+<!-- Content -->
+<p>
+<figure>
+    <img src="https://img.freepik.com/free-vector/expert-checking-business-leader-order_74855-10624.jpg?w=1380&t=st=1681298224~exp=1681298824~hmac=8cc627c3be635662d522161567e4aefc5149076604a614edd0c102f5b6cbfd2d" style="display: block; margin-left: auto; margin-right: auto; width: 100%;"/>
+    <figcaption>Foto: <a href="https://www.freepik.com/free-vector/expert-checking-business-leader-order_11235382.htm#query=signing%20contract&position=5&from_view=search&track=ais">pch.vector</a> / Freepik
+    </figcaption>
+</figure>
+</p>
+
+<h3 id="content">Husleiekontraktens innhold – 9 punkter du <u><i>bør</i></u> ha avklart</h3>
+<p>Videre følger de viktigste punktene som burde være tilstede og avklart i en husleiekontrakt. Merk at dette er generelle punkter, og det kan være forhold som er unike i hvert leieforhold. Disse momentene er allikevel noe du og huseier bør ha snakket om, blitt enige om og skrevet entydig i en kontrakt før du signerer den og inngår et leieforhold. 
+</p>
+
+<p>
+    <ul style="list-style-type:algebraic">
+        <li>Husleie</li>
+            <ul style="list-style-type:disc; margin-left:3.25em">
+                <li><b>Skal være et fastsatt, månedlig beløp.</b> Det vil si at den ikke skal variere fra måned til måned, selv om de utgiftene som utleier dekker, knyttet til boligen, gjør det. Tilleggsutgifter til vedlikehold, renovasjon, forsikring, vaktmester og lignende skal også være inkludert i selve leien, og utleier kan derfor ikke komme med regning til deg som leietaker. Det finnes et par unntak, se punkt lengre nede. Utleier skal selv dekke kostnader knyttet til opprettelse av depositumskonto. </li>
+                <li><b>Kun én forskuddsvis månedsbetaling om gangen.</b> Vanligvis betales husleien forskuddsvis. Det vil si at du betaler inn leie for mai, f.eks. 15. april eller 1. mai. Utleier har ikke rett til å kreve mer enn én månedsbetaling om gangen. Det vil si at hvis du betaler forskuddsvis kan utleier ikke kreve at du betaler for tre måneder per innbetaling. </li>
+                <li><b>Sjekk husleiens rimelighet.</b> Beløpet skal være rimelig i forhold til markedspris. Det vil si at i forhold til boligens størrelse, beliggenhet, standard osv. skal månedsleien ikke være vesentlig lavere eller høyere enn hva en tilsvarende bolig ville blitt utleid på ved tidspunktet. Et tips kan være å undersøke andre lignende boliger på f.eks. Finn, Hybel eller spørre en du stoler på. Hvis du i forkant av kontraktsinngåelse synes leien er urimelig høy, kan du få den vurdert av en takstnemnd. Vær derimot obs på at etter at kontrakten er godtatt og signert, er leiesummen vanskelig å få gjort noe med. </li>
+                <li><b>Utleier kan kun ta tilleggsbetalt for strøm, brensel, og kun vann og avløp i boliger med forbruksmåler.</b> I utgangspunktet har utleier ikke lov til å ta tilleggsbetalt for noe utover husleien. Dette betyr at dersom du har TV og internett i boligen, kan ikke utleier sende deg regningen for dette, men det må være en del av den månedlige husleien, noe som bør stå klart og tydelig i kontrakten. Ellers er det en mulighet at leietaker oppretter sitt eget TV- og internett abonnement. Det finnes kun to unntak for tilleggsutgifter, men dette må da spesifiseres i kontrakten:
+                <ul style="list-style-type:disc; margin-bottom:0em; margin-left:3.25em">
+                    <li>Leietaker betaler for sitt forbruk av strøm og brensel knyttet til utleieboligen</li>
+                    <li>Leietaker betaler for sin andel av utgiftene knyttet til vann og avløp. Merk at dette punktet kun gjelder dersom det finnes en måler som kan registrere forbruket. </li>
+                </ul></li>
+                <li><b>Huseier kan kun justere husleien ved to bestemte forhold.</b> I utgangspunktet kan den ikke det, med mindre dere har blitt enige om økt husleie og inngår en ny husleiekontrakt, men det finnes to situasjoner der utleier kan gjøre dette på en lovlig måte.
+                <ul style="list-style-type:algebraic; margin-bottom:0em; margin-left:3.25em">
+                    <li><i>Konsumprisindeksen stiger.</i> Statistisk Sentralbyrå (SSB) avgjør noe som heter Konsumprisindeksen (KPI) i Norge. KPI sier noe om hvordan prisen på varer og tjenester utvikler seg over tid. Øker denne har utleier mulighet til å sette opp leieprisen (ettersom det da blir dyrere for hen å eie boligen), men dette kan kun gjøres én gang i året. Da må utleier gi deg skriftlig varsel, minst en måned i forveien og du må ha bodd der i over ett år. Det er også slik at du som leietaker kan kreve at leien settes ned, dersom det er nedgang i KPI-en. </li>
+                    <li><i>Gjengs leie stiger.</i> Dersom du har bodd i utleieboligen i over 2,5 år, kan utleier kreve at husleie tilpasses noe som heter gjengs leie. Gjengs leie er et slags gjennomsnitt av boliger i området ditt som har tilsvarende og standard, samt avtalevilkår, som for eksempel oppsigelsestid. Du skal ha 6 måneders varsel dersom huseier velger å øke leien. Tilsvarende som ved KPI kan du be om å senke leien, dersom du oppdager at gjengs leie er lavere enn det du betaler i dag. Merk at det er vanskelig å finne data om gjengs leie, men SSB har noe og for Oslo har Boligbygg KF egen informasjon.</li>
+                </ul></li>
+            </ul>
+        <li>Depositum</li>
+            <ul style="list-style-type:disc; margin-left:3.25em">
+                <li><b>Hva er et depositum?</b> Et depositum er et beløp som leietaker betaler inn til en egen konto i det du inngår kontrakt med utleier, og som du i utgangspunktet får tilbake i det leieforholdet opphører, og du flytter ut. Dette beløpet fungerer som en sikkerhet for utleieren. Det betyr at hvis du som leietaker ikke betaler den husleien du skylder eller hvis du skader boligen, eller tilhørende inventar, kan utleieren holde tilbake deler av depositumet (alt etter husleiens sum eller inventarets verdi). </li>
+                <li><b>Depositum skal avklares før kontrakten inngås, ikke senere.</b> Det vil si at når dere utarbeider kontrakten, og blir enige om detaljene i den, skal depositum være nevnt i kontrakten. Huseier kan ikke kreve at det betales depositum i etterkant, da er det rett og slett for sent. </li>
+                <li><b>Summen på depositumet kan være på maks 6 ganger månedsleie.</b><span class="image left"><img src="https://img.freepik.com/free-vector/open-banking-data-access-financial-services-mobile-payment-app-development-api-technology-web-developers-designing-banking-platforms_335657-2401.jpg?w=1380&t=st=1681301193~exp=1681301793~hmac=dd0567bcf25d9924c96c85fd0178e2ae057f64344b00de6fbcc8654dcf496fe7" alt="" /></span>Det er opp til utleier å oppgi depositumets beløp, eller at dere blir enige om en sum. Det er ulikt fra utleier til utleier, men det er gjerne vanlig med en sum tilsvarende 3 måneders leie. I praksis betyr dette at hvis du betaler 5 000 kr i husleie per måned, er depositumet på 15 000 kr. Det finnes ingen nedre ramme for depositum, men huseier har ikke lov til å kreve mer enn 6 ganger månedsleie. Det vil si at i det samme eksempelet, kan huseier kreve maksimalt 30 000 kr i depositum. </li>
+                <li><b>Depositumet skal settes inn på leietakers særskilte depositumskonto.</b> Det er svært viktig at depositumet settes inn på en egen depositumskonto i ditt, leietakers, navn. Dette står i <a href="https://lovdata.no/dokument/NL/lov/1999-03-26-17">Husleieloven</a>. Utleier skal betale dersom det er noen kostnader knyttet til opprettelse.</li>
+                <li><b>Depositumet fås tilbake ved å kontakte banken ved utflytting.</b> Har du opprettet en depositumskonto, kan du ta kontakt med banken din og kreve utbetaling av depositumet. Utleier får da fem uker på seg til å reise søksmål dersom dette skulle være aktuelt, ellers skal banken utbetale det til deg. Er utleier uenig i at du skal ha det tilbake, og reiser søksmål må du være med på en rettslig prøving, og den avgjørelsen som fremkommer der avgjør hva du får tilbake. Har du betalt inn depositumet til huseierens private konto, er du nødt til å sende et krav om å få det tilbake. Dette kan være et varsel om at du ellers vil ta rettslige skritt. Får du det da ikke tilbake må du klage, enten til forliksrådet eller forliksrådet. Hvilken av dem spørs på hvor du var bosatt under leieforholdet. </li>
+                <li>Utleier kan holde tilbake depositum ved skade på bolig eller ubetalt husleie.
+                    <ul style="list-style-type:algebraic; margin-bottom:0em; margin-left:3.25em">
+                        <li><b>Husleie er ikke betalt.</b> Dette betyr at hvis utleier mener at du ikke har betalt den husleien du skal, innen du skal, kan hen kreve å ta ut pengene fra depositumskontoen. Utleier kan da få pengene utbetalt til seg dersom dere blir enige om at husleien ikke er betalt og avtaler at pengene skal tas fra depositumskontoen. Dersom du mener at du har betalt, kan ikke utleier be banken sette over pengene til seg, med mindre utleier har bevist at du ikke har betalt skyldig husleie, og banken har sendt deg et skriftlig varsel om at dersom du er uenig må du klage inn utleieren til Husleietvistutvalget eller Forliksrådet innen 5 uker, og du enda ikke har gjort det.</li>
+                        <li><b>Du har skadet bolig og/eller inventar.</b> Dette betyr at du har laget hull i en vegg, ødelagt en TV eller knust et vindu. Dere må da inngå en avtale om at det skal trekkes fra depositumet. og hen kan ikke trekke fra kontoen uten din tillatelse. Nekter du, må utleieren din ha en avgjørelse fra Husleietvistutvalget, Forliksrådet eller en annen domstol før han kan ta fra depositumet.</li>
+                    </ul>
+                </li>
+            </ul>
+        <li>Varighet og oppsigelse</li>
+            <ul style="list-style-type:algebraic; margin-left:3.25em">
+                <li><b>Varighet og oppsigelse for de to typene kontrakt.</b> En leiekontrakt kan deles inn i to kategorier; en tidsbestemt og en tidsubestemt kontrakt. <i>Den tidsbestemte kontrakten</i> har bestemt varighet, og da også en sluttdato, for eksempel fra 1. september 2025 - 31. august 2028. <span class="image right"><img src="assets/images/wristwatch.png" alt="" /></span>De kan ha uten eller med oppsigelse. Er ingenting om oppsigelse skriftlig avtalt, så kan de sies opp. De tidsbestemte kontraktene har som hovedregel en varighet på 3 år. Unntaket er om det er snakk om lofts- eller sokkelbolig i enebolig, halvparten av tomannsbolig og at huseier bor i den. Da kan leietiden være på ett år. Finnes det en rimelig og saklig grunn, kan den være enda kortere. Det er da snakk om et tidsbegrenset opphold for utdanning, arbeid eller ferie. <i>Den tidsubestemte kontrakten</i> har ingen sluttdato. Da står det heller at leieforholdet inngås 1. september 2025. </li>
+                <li><b>Generelt om <a href="https://www.htu.no/rettigheter-og-plikter/oppsigelse">oppsigelse</a>.</b> I kontrakten bør det stå spesifikt kravene for oppsigelse, hvem som kan si opp og når det kan gjøres. Det er vanlig å inngå en avtale der begge har mulighet til å si opp, men det kan også stå at kun du, eller kun utleier har mulighet til å gjøre dette.</li>
+                <li>Oppsigelse er en vanlig måte å avslutte en leieavtale i leieperioden. Oppsigelsestiden er vanligvis på tre måneder og oppsigelsestiden starter fra den første dagen i mpneden etter at oppsigelsen er gitt. Om man sier opp en dag i mars måned vil oppsigelsestiden starte 1. april og om oppsigelsestiden er på tre måneder vil den vare ut juni måned. Både rettighetene og pliktene til leietaker og utleier gjelder i oppsigelsestiden. </li>
+                <li>Hvilke rettigheter utleier og leietaker har til å si opp leieavtalen står som oftest/ (OG bør) stå i den skriftlige leiekontrakten. Det er mulighet å avtale mellom utleier og leietaker hvordan leiekontrakten kan sis opp og hvilken oppsigelsestid som skal gjelde. Det er også mulighet for å avtale mellomløsninger, som at man for eksempel ikke kan si opp leieavtalen det første året av leieperioden, men dette må da stå i leiekontrakten.</li>
+            </ul>
+        <li>Dyrehold, hva har man lov til?</li>
+            <ul style="list-style-type:disc; margin-left:3.25em">
+                <span class="image left"><img src="assets/images/dog.png" alt="" /></span>
+                <li><b>I kontrakten vil det stå om det er forbudt med kjæledyr eller ikke.</b> <a href="https://www.htu.no/vanlige-uenigheter/leietaker-har-eller-onsker-a-skaffe-seg-kjaeledyr">Om man ønsker seg et kjæledyr</a>, men det er forbud mot dyrehold, må man i utgangspunktet respektere dette forbudet. Selv om det er satt at det er forbudt med dyrehold kan det være slikt at man kan skaffe seg kjæledyr dersom man har god grunner til dette og at dyreholdet ikke kommer til ulempe for utleieren. Eksempel på gode grunner er for å ivareta sosiale eller velferdsmessige forhold. Likevel må en være oppmerksom på at om man har kjæledyr kan dette medføre ekstra slitasje på boligen, som du som leietaker kan bli ansvarlig for.</li>
+            </ul>
+        <li>Samboerkontrakt. Hvorfor bør man ha det, og hva er det?</li>
+            <ul style="list-style-type:disc; margin-left:3.25em">
+                <li>Skal du flytte sammen med kjæresten, kan det være lurt å inngå en samboerkontrakt. <span class="image right"><img src="https://img.freepik.com/free-vector/businessman-signing-contract-hands-person-holding-pen-paper-document-sign-agreement-flat-vector-illustration-signature-deal-concept-banner-website-design-landing-web-page_74855-24354.jpg?w=1380&t=st=1681304467~exp=1681305067~hmac=0efb953d346c4780fbc6d64df443f1d2d0ac304d3f8c716e12bdac55d2bf9420" alt="" /></span>Samboerkontrakt er et juridisk dokument som skisserer rettighetene og pliktene til par som bor sammen, men ikke er gift. Kontrakten dekker typisk en rekke problemer som kan oppstå i løpet av forholdet, for eksempel hvordan eiendom skal eies og deles, hvordan utgifter deles og hvordan eiendeler og gjeld vil bli forvaltet i tilfelle samlivsbrudd.</li>
+                <li>Samboerkontrakter brukes ofte av par som velger å ikke gifte seg, men likevel ønsker å beskytte sine juridiske og økonomiske interesser i forholdet. Det kan også omfatte bestemmelser om omsorg for barn og støtte dersom paret har barn sammen. </li>
+            </ul>
+        <li>Avtale om fremleie? Hva er <a href="https://www.htu.no/artikler/fremleie-kan-leietakeren-leie-ut-boligen-til-andre">reglene</a> for fremleie?</li>
+            <ul style="list-style-type:disc; margin-left:3.25em">
+                <li>Fremleie betyr at leietaker leier videre boligen til andre. Det vil si at leietakeren som fremleier inngår et eget kontraktsforhold med en ny leietaker i tillegg til den som allerede leietaker har med utleier. For å kunne fremleie må man i hovedsak ha godkjenning av utleier.</li>
+                <li><span class="image left"><img src="https://img.freepik.com/free-vector/business-opportunities-chances-professional-ambitions-company-development-plans-searching-innovation-visionary-entrepreneur-anticipating-new-trends-vector-isolated-concept-metaphor-illustration_335657-2785.jpg?w=1380&t=st=1681303705~exp=1681304305~hmac=38e06a4a3dc43cb77a788826c3698680c2355f9bfb9a57c4d1284fd327b4cc47" alt="" /></span>Likevel kan leietaker fremleie en del av boligen, ved leietakers midlertidige fravær inntil to år eller ved tidsbestemt kontrakt. Leietakeren må likevel i disse tilfellene ha en godkjenning fra utleier. Utleier kan bare nekte hvis han har en saklig grunn til å nekte akkurat denne framleietakeren, eksempelvis dersom den som leietakeren ønsker å fremleie til har dårlige referanser. En annen grunn kan være om boligen blir klart overbefolket. Selv om man fremleier vil man likevel stå ansvarlig for sine forpliktelser overfor utleieren.</li>
+                <li>NB! Om man har en tidsbestemt kontrakt er det ikke lov å avtale at man kan nekte leietakeren fremleie. MEN, utleier kan nekte å godkjenne ny leietaker om det er en saklig grunn.</li>
+            </ul>
+        <li>Hvilke rom leieforholdet omfatter</li>
+            <figure>
+                <img src="https://img.freepik.com/free-vector/house-cross-section-concept_23-2148660149.jpg?w=1380&t=st=1681304268~exp=1681304868~hmac=21e2957896a26c1d61f1860d28a6f1c0033a3be6dc12c26b0c57f33a706f7b3b" style="display: block; margin-left: auto; margin-right: auto; width: 80%;"/>
+                <figcaption style="text-align:center">Foto: <a href="https://www.freepik.com/free-vector/house-cross-section-concept_9924704.htm#query=house-cross-section-concept&position=40&from_view=search&track=sph">Freepik</a> / Freepik
+                </figcaption>
+            </figure><br>
+            <ul style="list-style-type:disc; margin-left:3.25em">
+                <li>Det er viktig at rommene som er tilgjengelig for bruk, og som utleier har tilgang til kommer fram i kontrakten. Er det for eksempel bod eller terrasse til disposisjon? Dette gjelder spesielt i tilfeller hvor kun deler av et hus/bygg leies ut.</li>
+            </ul>
+        <li>Lenke til gode kontraktsmaler</li>
+            <figure>
+                <img src="https://img.freepik.com/free-vector/real-estate-searching-concept_23-2148657180.jpg?w=1380&t=st=1681304044~exp=1681304644~hmac=6002cac218366194b5a85eba0ea765f632594bf3256379a8a02ca4c8ad66eab3" style="display: block; margin-left: auto; margin-right: auto; width: 80%;"/>
+                <figcaption style="text-align:center">Foto: <a href="https://www.freepik.com/free-vector/real-estate-searching-concept_9920744.htm#query=real%20estate%20searching%20concept&position=25&from_view=search&track=ais">Freepik</a> / Freepik
+                </figcaption>
+            </figure><br>
+            <ul style="list-style-type:disc; margin-left:3.25em">
+                <li>Det finnes utallige gode maler for leiekontrakter som kan brukes. Men selv om dette er maler, så er det viktig å være kritisk og ta med det du synes er viktig for deg og din situasjon. Ofte er det utleier som tar ansvar for å ta i bruk en spesifikk kontrakt, men under kan du finne inspirasjon i fire kontraktsmaler som alle kan brukes:</li>
+                    <ul style="list-style-type:algebraic; margin-left:3.25em">
+                        <li><a href="https://www.husleie.no/kampanje/leiekontrakt?gclid=CjwKCAjwzuqgBhAcEiwAdj5dRj0MVh9XzhyUn-rEuVpAVuJoC-1DXxIPBxjuAqgfyvqDmvuBDEGOsRoCa5IQAvD_BwE">Husleie.no</a></li>
+                        <li><a href="https://www.forbrukerradet.no/kontrakter/hus/husleiekontrakt-bokmal/ ">Forbrukerrådet</a></li>
+                        <li><a href="https://www.eiendomsrett.no/husleiekontrakt/">Eiendomsrett.no</a></li>
+                        <li><a href="https://boligmentoren.no/husleiekontrakt/ ">Boligmentoren</a></li>
+                    </ul>
+            </ul>
+        <li>Har man lov å gjøre kosmetiske endringer i leiligheten, som å male eller henge opp bilder på veggene?</li>
+            <ul style="list-style-type:disc; margin-left:3.25em">
+                <li>Mange vil si at hva som er lov og ikke vedrørende kosmetiske endringer i boligen avhenger av boligens tilstand fra før. Men som hovedregel bør man gå ut ifra at det i utgangspunktet ikke er lov å gjøre kosmetiske endringer i boligen du leier, uten å få godkjenning av utleier. En risikerer å måtte dekke kostnadene som følge av reparering eller tilbakeføring av hva som er utført dersom det gjøres uten samtykke fra utleier. Utleier må regne med normal slitasje ved utflytting, men det inngår ikke endringer man som leietaker utfører. </li>
+                <li>Noen utleiere vil ofte godkjenne oppheng av «fast montasje» som gardinstenger eller bokhyller, mot at det blir værende i boligen og ikke medtas ved utflytting. Det kan derfor være lurt å avklare detaljer om dette på forhånd. HUSK! Som alt annet, unngå muntlige avtaler. Skriv alt ned i kontrakten for å unngå misforståelser og uforutsette kostnader. </li>
+            </ul>
+    </ul>    
+</p>
+
+
