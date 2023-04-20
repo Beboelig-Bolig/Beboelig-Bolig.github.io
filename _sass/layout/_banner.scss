@@ -8,7 +8,7 @@
 
 	#banner {
 		@include vendor('align-items', 'center');
-		@include vendor('background-image', 'url("../images/beboeligbolig.png")');
+		@include vendor('background-image', 'url("../images/forsidebilde.png")');
 		@include vendor('display', 'flex');
 		@include padding(4em, 0, (2em, 0, 0, 0));
 		background-attachment: fixed;
@@ -34,7 +34,7 @@
 			display: block;
 			height: 100%;
 			left: 0;
-			opacity: 0.85; //- 0.85
+			opacity: 0.60; //- 0.85
 			position: absolute;
 			top: 0;
 			width: 100%;
