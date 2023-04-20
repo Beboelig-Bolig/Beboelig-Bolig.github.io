@@ -46,6 +46,9 @@ Det første rådet som blir gitt til de som bor i kollektiv er at man lager avta
 
 <header class="major"><h3 id="content">Roomien min irriterer meg, hva gjør jeg?!</h3></header>
 <p>Det vil alltid oppstå situasjoner og hendelser som kan være vanskelig å ta opp når man bor sammen med andre, om degjelder gamle eller nye venner i et kollektiv, en samboer, eller familien hjemme. Samtidig er det ikke alt man syns er vanskelig som trengs å tas opp, og iblant må man velge sine kamper. Noen situasjoner som du ikke syns er greit i det hele tatt må man åpenbart ta opp. Andre situasjoner må man kanskje bare vende seg til. Hvis noen har en talefeil, lar det ligge brødsmuler igjen på benken iblant, eller legger noe i kjøleskapshylla di, er det kanskje ikke verdens undergang å lære seg å leve med. En slik vurdering kan være en vanskelig å gjøre i blant, og det kan være veldig individuelt hva man kan leve med og hva man føler man må ta opp. En fin regel er å spørre seg selv "Hva kan jeg oppnå med å ta opp dette?" og "Er det håp om endring?". Det kan være både hjelpsomt og nyttig hvis man er usikker å snakke med en venn om det, men det er da lurt å snakke med noen som ikke bor i kollektivet hvis man har mulighet for det.
+<figure>
+    <img src="assets/images/student_rot.png" style="display: block; margin-left: auto; margin-right: auto; width: 100%;"/>
+</figure>
 </p>
 
 <p>Selv om dere kanskje har etablert kollektivmøter hvor det er lav terskel for å ta opp saker, er det ofte vel så lurt å ta opp saker som er ugreit eller kjipt spontant, så lenge man gjør det på en respektfull måte. Da slipper man at irritasjonsmomenter får ligge å ulme og gro over tid, og det er lettere for den eller de som har gjort et overtramp å ta det til seg. Samtidig må man se an situasjonen, det er ikke alltid det passer seg å ta ting opp med en gang.

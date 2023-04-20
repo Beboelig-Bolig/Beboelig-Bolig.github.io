@@ -84,14 +84,12 @@ nav-menu: true
             <li><i>NB! Om man har en tidsbestemt kontrakt er det ikke lov å avtale at man kan nekte leietakeren fremleie. Men, utleier kan nekte å godkjenne ny leietaker om det er en saklig grunn.</i></li>
         </ul>
     <header class="major"><h3 id="content">7. Hvilke rom leieforholdet omfatter</h3></header>
-        <figure>
-            <img src="https://img.freepik.com/free-vector/house-cross-section-concept_23-2148660149.jpg?w=1380&t=st=1681304268~exp=1681304868~hmac=21e2957896a26c1d61f1860d28a6f1c0033a3be6dc12c26b0c57f33a706f7b3b" style="display: block; margin-left: auto; margin-right: auto; width: 80%;"/>
-            <figcaption style="text-align:center">Foto: <a href="https://www.freepik.com/free-vector/house-cross-section-concept_9924704.htm#query=house-cross-section-concept&position=40&from_view=search&track=sph">Freepik</a> / Freepik
-            </figcaption>
-        </figure><br>
         <ul style="list-style-type:disc; margin-left:3.25em">
             <li>Det er viktig at rommene som er tilgjengelig for bruk, og som utleier har tilgang til kommer frem i kontrakten. Det er greit å vite om det eksempelvis er bod eller terrasse disponibelt der du leier. Dette gjelder spesielt i tilfeller hvor kun deler av et hus/bygg leies ut.</li>
         </ul>
+        <figure>
+            <img src="assets/images/student_invadering.jpg" style="display: block; margin-left: auto; margin-right: auto; width: 100%;"/>
+        </figure>
     <header class="major"><h3 id="content">8. Linker til gode kontraktsmaler</h3></header>
         <figure>
             <img src="https://img.freepik.com/free-vector/real-estate-searching-concept_23-2148657180.jpg?w=1380&t=st=1681304044~exp=1681304644~hmac=6002cac218366194b5a85eba0ea765f632594bf3256379a8a02ca4c8ad66eab3" style="display: block; margin-left: auto; margin-right: auto; width: 80%;"/>

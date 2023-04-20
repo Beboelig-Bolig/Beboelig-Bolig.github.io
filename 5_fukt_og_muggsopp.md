@@ -36,6 +36,9 @@ nav-menu: true
         <li>Mugglukten er et sikkert tegn. Lukten er skarp og kan ofte minne om en kjellerlukt eller potetkjeller. </li>
         <li>Man kan se vekst av muggsopp som grått, svart eller grønt belegg, eller som annen misfarging.</li>
     </ol>
+    <figure>
+    <img src="assets/images/student_mugg.png" style="display: block; margin-left: auto; margin-right: auto; width: 100%;"/>
+    </figure>
 </p>
 
 <header class="major"><h3 id="content">Ulike symptomer som kan oppstå</h3></header>
