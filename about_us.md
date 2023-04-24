@@ -26,7 +26,7 @@ nav-menu: true
         </header>
             <h4> Anni Skaatun </h4>
                 <figure>
-                    <img src="assets/images/portrait_anni.jpg" style="display: block; margin-left: auto; margin-right: auto; width: 50%;"/>
+                    <img src="assets/images/portrait_anni.png" style="display: block; margin-left: auto; margin-right: auto; width: 40%;"/>
                 </figure>
                 <br>
                 <p>
@@ -34,7 +34,7 @@ nav-menu: true
                 </p>
             <h4> Astrid Lunged Leirvoll </h4>
                 <figure>
-                    <img src="assets/images/portrait_astrid.jpg" style="display: block; margin-left: auto; margin-right: auto; width: 50%;"/>
+                    <img src="assets/images/portrait_astrid.png" style="display: block; margin-left: auto; margin-right: auto; width: 40%;"/>
                 </figure>
                 <br>
                 <p>
@@ -42,7 +42,7 @@ nav-menu: true
                 </p>
             <h4> Håvard Olai Kopperstad </h4>
                 <figure>
-                    <img src="assets/images/portrait_hok.jpg" style="display: block; margin-left: auto; margin-right: auto; width: 50%;"/>
+                    <img src="assets/images/portrait_hok.png" style="display: block; margin-left: auto; margin-right: auto; width: 40%;"/>
                 </figure>
                 <br>
                 <p>
@@ -50,7 +50,7 @@ nav-menu: true
                 </p>
             <h4> John Øyvind Lossius Skogrand </h4>
                 <figure>
-                    <img src="assets/images/portrait_jo.jpg" style="display: block; margin-left: auto; margin-right: auto; width: 50%;"/>
+                    <img src="assets/images/portrait_jo.png" style="display: block; margin-left: auto; margin-right: auto; width: 40%;"/>
                 </figure>
                 <br>
                 <p>
@@ -58,7 +58,7 @@ nav-menu: true
                 </p>
             <h4> Maren Christensen </h4>
                 <figure>
-                    <img src="assets/images/portrait_maren.jpg" style="display: block; margin-left: auto; margin-right: auto; width: 50%;"/>
+                    <img src="assets/images/portrait_maren.png" style="display: block; margin-left: auto; margin-right: auto; width: 40%;"/>
                 </figure>
                 <br>
                 <p>
