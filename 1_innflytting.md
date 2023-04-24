@@ -52,5 +52,9 @@ nav-menu: true
             </ul>
 	</ul>
     <br>
+    <figure>
+        <img src="assets/images/pass_paa.png" style="display: block; margin-left: auto; margin-right: auto; width: 80%;"/>
+    </figure>
+    <br>
 <b>Ønsker du å lese mer?</b> Se: <a href="2_husleiekontrakt.html">Husleiekontraktens innhold - 9 punkter du bør ha avklart</a>
 </p>

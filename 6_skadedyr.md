@@ -48,7 +48,7 @@ avtalt om vedlikeholdsplikt i kontrakten kan du stå ansvarlig for utleiers øko
 
 <header class="major"><h3 id="content">Hvilke forebyggende tiltak kan gjøres?</h3></header>
 <p>Forhindring av vanntilgang, næring, riktig temperatur og steder der skadedyrene kan leve og formere seg vil være avgjørende og betraktelig for å <a href="https://www.fhi.no/nettpub/skadedyrveilederen/forebygging-av-skadedyrangrep/forebygging-av-skadedyrangrep/">minimere sjansen</a> for at skadedyr oppstår.
-<h4>Dette kan du gjøre selv:</h4><span class="image right"><img src="https://img.freepik.com/free-photo/travel-new-normal-man-packing-suitcase_53876-97674.jpg?w=1380&t=st=1681996063~exp=1681996663~hmac=511d72f9bf45be7c8eaaa14b3041608b933c6ed7211949ab38a8db1474fa71c5" alt="" /></span>
+<h4>Dette kan du gjøre selv:</h4>
 	<ul style="lsit-style-type:disc; margin-bottom:2em; margin-left:3.25em;">
 		<li>Reduser fuktighet: Sørg for god ventilasjon og regelmessig utlufting i alle rom. Unngå unødvendige fuktkilder som matlaging uten å bruke avtrekksviften og klestørking i rom uten ventilasjon. Fjern vann og fukt fra overflater så raskt som mulig, ikke la det ligge over tid.</li>
 		<li>Fjern tilgjengelige matkilder: Bruk tette beholdere for å fjerne skadedyrenes tilgang på næring. Fjern også matrester og stekefett etterhvert som det oppstår. Tips: Å støvsuge matrester er mest optimalt, da det ikke tilfører fukt! Du bør også ikke la søppel ligge for lenge innendørs før det kastes ut i søppeldunker.</li>
@@ -58,7 +58,7 @@ avtalt om vedlikeholdsplikt i kontrakten kan du stå ansvarlig for utleiers øko
 </p>
 
 <header class="major"><h3 id="content">Noen enkle tips til å unngå å dra med seg skjeggkre/sølvkre/veggdyr hjem etter reise:</h3></header>
-<p><h4><a href="https://skjeggkre.info/hva-er-skjeggkre/hvordan-unnga-forebygge-for-skjeggkre">Tiltak</a> som du kan gjøre under reisen:</h4>
+<p><h4><a href="https://skjeggkre.info/hva-er-skjeggkre/hvordan-unnga-forebygge-for-skjeggkre">Tiltak</a> som du kan gjøre under reisen:</h4><span class="image right"><img src="https://img.freepik.com/free-photo/travel-new-normal-man-packing-suitcase_53876-97674.jpg?w=1380&t=st=1681996063~exp=1681996663~hmac=511d72f9bf45be7c8eaaa14b3041608b933c6ed7211949ab38a8db1474fa71c5" alt="" /></span>
 	<ul style="list-style-type:disc; margin-bottom:2em; margin-left:3.25em;">
 		<li>Ha bagasjen mest mulig lukket og oppe fra gulvet.</li>
 		<li>Rist klær før du pakker.</li>

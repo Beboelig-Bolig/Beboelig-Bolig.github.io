@@ -25,7 +25,7 @@ nav-menu: true
 </figure>
 </p>
 
-<p>Det er riktig nok ikke alltid livet i kollektivet er en dans på roser. Til tider kan det være utfordrende med både små og store konflikter som kan oppstå med de man bor med. Det er tross alt en gjeng mennesker med ulike bakgrunner, ulike vaner og standarder som flytter sammen som kan gjøre ting vanskelig til tider.<</p>
+<p>Det er riktig nok ikke alltid livet i kollektivet er en dans på roser. Til tider kan det være utfordrende med både små og store konflikter som kan oppstå med de man bor med. Det er tross alt en gjeng mennesker med ulike bakgrunner, ulike vaner og standarder som flytter sammen som kan gjøre ting vanskelig til tider.</p>
 
 <p>Vi har samlet råd og tanker om hvordan man best kan sørge for god trivsel i kollektivet. Vi har hentet innspill fra både spesialister og erfarne studenter, slik at du og de du bor med kan ha en fin og trivelig tid sammen. Det meste handler om kommunikasjon, og det å ha en balanse av aksept og åpenhet for å ta ting opp. Alle vil ha et godt hjem, og det å bo i kollektiv er en gylden mulighet for å lære seg hvordan man kan håndtere de vanskelige samtalene.
 </p>
