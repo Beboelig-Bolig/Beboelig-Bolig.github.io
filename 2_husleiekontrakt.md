@@ -69,7 +69,7 @@ nav-menu: true
         </ul>
     <header class="major"><h3 id="content">4. Dyrehold, hva har man lov til?</h3></header>
         <ul style="list-style-type:disc; margin-left:3.25em">
-            <span class="image right"><img src="assets/images/dog.png" alt="" /></span>
+            <span class="image right"><img src="assets/images/hund.png" alt="" /></span>
             <li><b>I kontrakten vil det stå om det er forbudt med kjæledyr eller ikke.</b> <a href="https://www.htu.no/vanlige-uenigheter/leietaker-har-eller-onsker-a-skaffe-seg-kjaeledyr">Om man ønsker seg et kjæledyr</a>, men det er forbud mot dyrehold, må man i utgangspunktet respektere dette forbudet. Selv om det er satt at det er forbudt med dyrehold kan det være slikt at man kan skaffe seg kjæledyr dersom man har god grunner til dette og at dyreholdet ikke kommer til ulempe for utleieren. Eksempel på gode grunner er for å ivareta sosiale eller velferdsmessige forhold. Likevel må en være oppmerksom på at om man har kjæledyr kan dette medføre ekstra slitasje på boligen, som du som leietaker kan bli ansvarlig for.</li>
         </ul>
     <header class="major"><h3 id="content">5. Samboerkontrakt: Hva det er og hvorfor du bør ha det</h3></header>
@@ -86,10 +86,12 @@ nav-menu: true
     <header class="major"><h3 id="content">7. Hvilke rom leieforholdet omfatter</h3></header>
         <ul style="list-style-type:disc; margin-left:3.25em">
             <li>Det er viktig at rommene som er tilgjengelig for bruk, og som utleier har tilgang til kommer frem i kontrakten. Det er greit å vite om det eksempelvis er bod eller terrasse disponibelt der du leier. Dette gjelder spesielt i tilfeller hvor kun deler av et hus/bygg leies ut.</li>
+            <li><b>Når du leier bolig så har du eksklusiv bruksrett til den.</b> Utleieren din kan derfor ikke gå inn i leiligheten "bare fordi". Dette er husleieloven tydelig på. Et tips er å avklare med utleier før du flytter inn og sette grenser. Si i fra at du ønsker beskjed dersom utleier har noe hen skal sjekke eller fikse i utleieboligen. Men hva gjør du dersom du opplever brudd på privatlivet ditt, for eksempel at utleier låser seg inn eller du får høre at utleier har vært i boligen din? Først bør du si i fra om at du ikke synes det er greit og du kan, om nødvendig, vise til Husleieloven. Dersom dette ikke hjelper kan du bytte lås og kreve å få refundert kostnaden, gitt at du tar vare på den gamle låsen og monterer den igjen ved utflytning. Gjør du dette er det fire unntak der du må åpne døren for utleier; ved inspeksjon eller tilsyn, vedlikehold, visning eller i faresituasjoner der det er betydelig risiko for helse eller materielle skader.</li>
         </ul>
         <figure>
             <img src="assets/images/student_invadering.jpg" style="display: block; margin-left: auto; margin-right: auto; width: 100%;"/>
         </figure>
+        <br>
     <header class="major"><h3 id="content">8. Linker til gode kontraktsmaler</h3></header>
         <figure>
             <img src="https://img.freepik.com/free-vector/real-estate-searching-concept_23-2148657180.jpg?w=1380&t=st=1681304044~exp=1681304644~hmac=6002cac218366194b5a85eba0ea765f632594bf3256379a8a02ca4c8ad66eab3" style="display: block; margin-left: auto; margin-right: auto; width: 80%;"/>

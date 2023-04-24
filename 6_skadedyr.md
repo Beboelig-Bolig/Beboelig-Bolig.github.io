@@ -73,7 +73,7 @@ avtalt om vedlikeholdsplikt i kontrakten kan du stå ansvarlig for utleiers øko
 	</ul>
 </p>
 
-<header class="major"><h3 id="content">Har du allerede oppdaget skadedyr i boligen?</h3></header><span class="image right" style="max-width:20%"><img src="https://img.freepik.com/free-vector/grey-rat-animal-cartoon-sticker_1308-79086.jpg?w=1380&t=st=1681996196~exp=1681996796~hmac=d07a107e27fb557cbd953af37dc966c2d24af83e55a9a0f2b8e02c4680185215" alt="" /></span>
+<header class="major"><h3 id="content">Har du allerede oppdaget skadedyr i boligen?</h3></header><span class="image right" style="max-width:20%"><img src="assets/images/the_rat.png" alt="" /></span>
 <p>Selv om det mest effektive for å kvitte seg med skadedyrene vil være å få hjelp av profesjonelle skadedyrbekjempere, er det også små aksjoner som en kan gjøre selv så fort de oppdages for å redusere omfanget og skadene. Du kan gjøre disse fire tiltakene selv:
 	<ol style="margin-left:3.25em">
 		<li>Sette ut <a href="https://www.gjensidige.no/godtforberedt/content/her-trives-skadedyrene-best">giftig åte</a>. Dette er en effektiv løsning skjeggkre og sølvkre.</li>

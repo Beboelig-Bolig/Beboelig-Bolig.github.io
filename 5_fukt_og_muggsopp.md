@@ -42,7 +42,7 @@ nav-menu: true
 </p>
 
 <header class="major"><h3 id="content">Ulike symptomer som kan oppstå</h3></header>
-<p>I en bygning med problemer med fukt og muggsopp kan alle mennesker få helsemessige konsekvenser selv om man ellers er frisk. Det er muggsporene som kan påvirke helsen din. Sykdom som kan oppstå som følge av muggsporer er: <span class="image right"><img src="https://img.freepik.com/free-vector/person-with-cold-illustrated-design_23-2148415668.jpg?w=1380&t=st=1681992457~exp=1681993057~hmac=a3753e3579f3a392b8784c0eb0d8cb25c019f36f65bdc25960763044cf5c84af" alt="" /></span>
+<p>I en bygning med problemer med fukt og muggsopp kan alle mennesker få helsemessige konsekvenser selv om man ellers er frisk. Det er muggsporene som kan påvirke helsen din. Sykdom som kan oppstå som følge av muggsporer er: <span class="image right"><img src="assets/images/the_flu.png" alt="" /></span>
     <ul style="list-style-type:disc; margin-bottom:2em; margin-left:3.25em">
         <li>Astma (f.eks. hoste, pipete pust, trykk for brystet)</li>
         <li>Høysnue (f.eks. tett eller rennende nese, nys og kløe i øyne)</li>
